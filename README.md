@@ -1,5 +1,6 @@
 # LavaOS
 A fun simulator OS in python.
+Windows 10/11 only.
 
 How to setup:
 1. Install pyhton.
