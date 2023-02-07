@@ -14,7 +14,7 @@ Requirements for installing in hard drive:
     Minimum Requirements:
         - 256 MB of RAM
         - 50 MB of Hard Drive Storage
-        - Intel or AMD x32-Bit CPU from 2010 or later
+        - Intel i386
 
     Recomended Requirements:
         - 256 MB of RAM
