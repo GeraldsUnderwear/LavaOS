@@ -33,9 +33,6 @@ Requirements for portable USB:
         - 512 MB of USB Storage
         - Intel or AMD x32-Bit CPU from 2015 or later
         
-UPDATE LOG FOR VERSION 1.0.0 PROTOTYPE
-    - LavaOS Launched
-        
 
 *ARM CPU not fully supported
 
