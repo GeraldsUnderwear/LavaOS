@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LavaOS", "LavaOS\LavaOS.csproj", "{6360F4FD-AE18-4152-93CB-F3AE22F28572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM32 = Debug|ARM32
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM32 = Release|ARM32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6360F4FD-AE18-4152-93CB-F3AE22F28572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6360F4FD-AE18-4152-93CB-F3AE22F28572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6360F4FD-AE18-4152-93CB-F3AE22F28572}.Debug|ARM32.ActiveCfg = Debug|Any CPU
+		{6360F4FD-AE18-4152-93CB-F3AE22F28572}.Debug|x64.ActiveCfg = Debug|x64
+		{6360F4FD-AE18-4152-93CB-F3AE22F28572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6360F4FD-AE18-4152-93CB-F3AE22F28572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6360F4FD-AE18-4152-93CB-F3AE22F28572}.Release|ARM32.ActiveCfg = Release|Any CPU
+		{6360F4FD-AE18-4152-93CB-F3AE22F28572}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80909BB5-1DBC-474D-9DCC-826BDAC0B7B3}
+	EndGlobalSection
+EndGlobal
